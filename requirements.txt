@@ -1,0 +1,13 @@
+# Версии, с которыми ноутбуки проверены (Python 3.12)
+gensim==4.4.0
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+scikit-learn==1.8.0
+networkx==3.6.1
+igraph==1.0.0
+leidenalg==0.12.0
+umap-learn==0.5.12
+pynndescent==0.6.0
+matplotlib==3.10.8
+seaborn==0.13.2
